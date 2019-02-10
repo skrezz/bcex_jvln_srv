@@ -1,0 +1,2 @@
+object bcex_main {
+}
